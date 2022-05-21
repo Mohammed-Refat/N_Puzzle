@@ -1,0 +1,15 @@
+G:\Projects\N_Puzzle\N_Puzzle\bin\Debug\net6.0\N_Puzzle.exe
+G:\Projects\N_Puzzle\N_Puzzle\bin\Debug\net6.0\N_Puzzle.deps.json
+G:\Projects\N_Puzzle\N_Puzzle\bin\Debug\net6.0\N_Puzzle.runtimeconfig.json
+G:\Projects\N_Puzzle\N_Puzzle\bin\Debug\net6.0\N_Puzzle.dll
+G:\Projects\N_Puzzle\N_Puzzle\bin\Debug\net6.0\N_Puzzle.pdb
+G:\Projects\N_Puzzle\N_Puzzle\obj\Debug\net6.0\N_Puzzle.csproj.AssemblyReference.cache
+G:\Projects\N_Puzzle\N_Puzzle\obj\Debug\net6.0\N_Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\N_Puzzle\N_Puzzle\obj\Debug\net6.0\N_Puzzle.AssemblyInfoInputs.cache
+G:\Projects\N_Puzzle\N_Puzzle\obj\Debug\net6.0\N_Puzzle.AssemblyInfo.cs
+G:\Projects\N_Puzzle\N_Puzzle\obj\Debug\net6.0\N_Puzzle.csproj.CoreCompileInputs.cache
+G:\Projects\N_Puzzle\N_Puzzle\obj\Debug\net6.0\N_Puzzle.dll
+G:\Projects\N_Puzzle\N_Puzzle\obj\Debug\net6.0\refint\N_Puzzle.dll
+G:\Projects\N_Puzzle\N_Puzzle\obj\Debug\net6.0\N_Puzzle.pdb
+G:\Projects\N_Puzzle\N_Puzzle\obj\Debug\net6.0\N_Puzzle.genruntimeconfig.cache
+G:\Projects\N_Puzzle\N_Puzzle\obj\Debug\net6.0\ref\N_Puzzle.dll
